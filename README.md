@@ -2,13 +2,24 @@
 
 This project was build using Angulalr 10.
 
-Some of screen shot given below:
+Some of screen shot given below
 
+Home Page User Tab:
+![](page%201.JPG)
+
+Home Page Repository Tab:
+![](page%202.JPG)
+
+Top user by country:
+![](page%203.JPG)
+
+Top repositories
+![](page%204.JPG)
 
 
 ## Development server
 
-Before run server you need to run command npm install Then
+Before run server you need to run command `npm install` Then
 Run `ng serve --open` for a dev server that will Navigate to `http://localhost:4200/`.
 
 ## Build
