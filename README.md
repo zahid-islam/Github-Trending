@@ -1,6 +1,6 @@
 # GithubTrending
 
-This project was build using Angulalr 10.
+The project is build using Angular 10.
 
 Some of screen shot given below
 
