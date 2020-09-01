@@ -19,7 +19,7 @@ Top repositories
 
 ## Development server
 
-Before run server you need to run command `npm install` Then
+Before run server you need to run unzip src folder and then command `npm install` Then
 Run `ng serve --open` for a dev server that will Navigate to `http://localhost:4200/`.
 
 ## Build
